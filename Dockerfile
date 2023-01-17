@@ -1,6 +1,5 @@
 # hadolint ignore=DL3007
 FROM myoung34/github-runner-base:latest
-FROM taxifyqa/android-build-platform-31-32-33-old:2022-12-12T141841
 
 LABEL maintainer="myoung34@my.apsu.edu"
 

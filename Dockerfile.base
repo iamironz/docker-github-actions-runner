@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM taxifyqa/android-build-platform-31-32-33-old:2022-12-12T141841
 LABEL maintainer="myoung34@my.apsu.edu"
 
 ARG DUMB_INIT_VERSION="1.2.2"
